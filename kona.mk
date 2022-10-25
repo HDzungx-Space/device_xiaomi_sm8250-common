@@ -234,7 +234,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     libldacBT_enc \
-    libldacBT_abr
+    libldacBT_abr \
 
 # Camera
 PRODUCT_PACKAGES += \
