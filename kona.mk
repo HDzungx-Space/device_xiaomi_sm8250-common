@@ -467,7 +467,9 @@ PRODUCT_PACKAGES += \
     libOmxQcelp13Enc \
     libOmxVdec \
     libOmxVenc \
-    libstagefrighthw
+    libstagefrighthw \
+    libstagefright_foundation \
+    libstagefright_softomx
 
 # OMX - stagefright
 PRODUCT_PACKAGES += \
