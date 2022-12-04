@@ -249,6 +249,10 @@ PRODUCT_VENDOR_PROPERTIES += \
 endif
 
 
+# Dexpreopt
+PRODUCT_DEXPREOPT_SPEED_APPS += \
+    SystemUIGoogle
+    
 # Display
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.display.composer-service
